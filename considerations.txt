@@ -1,0 +1,12 @@
+Some considerations about the test:
+Due to the 48h deadline to delivery the test, I did not have much time to focus on the solution (Due to work and personal commitments)
+
+Some problems I faced because of lack of time:
+
+1 - I had some issues on using agregate functions with sequelize, that's why in the "best-clients" route I used a query in SQL to solve
+2 - I Started developing a first unit test, but it is not functional yet. I'll try to save some time to focus on it on the upcoming days
+
+
+What would I have done with more time:
+1 - Include code coverage with mocha c8
+2 - Cover all cases in the unit tests
