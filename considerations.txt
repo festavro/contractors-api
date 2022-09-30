@@ -8,5 +8,6 @@ Some problems I faced because of lack of time:
 
 
 What would I have done with more time:
-1 - Include code coverage with mocha c8
-2 - Cover all cases in the unit tests
+1 - Solve the best-clients problem using sequelize models instead of SQL Query
+2 - Include code coverage with mocha c8
+3 - Cover all cases in the unit tests
